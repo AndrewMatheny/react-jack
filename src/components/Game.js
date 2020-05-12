@@ -16,6 +16,10 @@ export default class Game extends React.Component {
 
     }
 
+    drawCard() {
+        //return this.state.deck.shift()
+    }
+
     render() {
         return (
             <div>
